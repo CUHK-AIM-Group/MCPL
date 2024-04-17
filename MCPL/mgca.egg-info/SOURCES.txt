@@ -1,0 +1,6 @@
+README.md
+setup.py
+mgca.egg-info/PKG-INFO
+mgca.egg-info/SOURCES.txt
+mgca.egg-info/dependency_links.txt
+mgca.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+Prompt Tuning: run mcpl.py
+
+Fine-tuning (uni-modal): run class_um.py
+Fine-tuning (multi-modal): run class_mm.py
+
+Comparison methods: run clip_finetuner.py
+
